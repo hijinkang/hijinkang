@@ -1,6 +1,6 @@
 ## I'm Hui Jin Kang.
  Electronic Engineering at [Kyunghee University](https://www.yonsei.ac.kr/en_sc/).
-### 🧡 Interests
+### Interests
 * Reading books
 * Harry Potter
 
